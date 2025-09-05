@@ -1,2 +1,2 @@
-# mushroomclassification
+# MUSHROOM CLASSIFICATION
 Machine Learning
